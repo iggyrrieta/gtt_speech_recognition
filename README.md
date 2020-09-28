@@ -7,31 +7,13 @@ Project definition
 ## Install libraries
 
 ```bash
-pip install SpeechRecognition
-```
-
-```
-pip install playsound
-```
-
-```
-pip install gTTS
-```
-
-```
-pip install requestspip 
-```
-
-```
-pip install PyAudio
-```
-
-```bash
-sudo apt install python-gobject
-```
-
-```bash
-sudo apt install python3-pyaudio
+pip install SpeechRecognition # importing speech recognition package from google api 
+pip install playsound # to play saved mp3 file
+pip install gTTS # google text to speech 
+pip install requestspip # to get API responses
+pip install PyAudio # to play saved mp3 file
+sudo apt install python-gobject # to play saved mp3 file
+sudo apt install python3-pyaudio # to play saved mp3 file
 ```
 
 

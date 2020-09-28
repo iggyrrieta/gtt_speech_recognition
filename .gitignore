@@ -1,0 +1,7 @@
+### VisualStudioCode ###
+# exclude everything
+.vscode/*
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+**/.history

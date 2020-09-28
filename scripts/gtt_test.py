@@ -6,7 +6,7 @@ import os # to save/open files
 import requests # to get API responses
 import json # to get detailed info from API responses
  
-num = 1
+num = 0
 def assistant_speaks(output): 
     global num 
   
@@ -17,7 +17,7 @@ def assistant_speaks(output):
   
     toSpeak = gTTS(text = output, lang ='en', slow = False) 
     # saving the audio file given by google text to speech 
-    file = str(num)+".mp3"  
+    file = f"Audio_{str(num)}.mp3"  
     toSpeak.save(file) 
       
     # playsound package is used to play the same file. 
