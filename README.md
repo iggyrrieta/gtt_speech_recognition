@@ -59,7 +59,3 @@ python gtt_test.py
 
 
 ![](img/test1.png)
-<<<<<<< HEAD
-
-=======
->>>>>>> eab3ec2e6a5ec6da5c1c4bae6ba39b4ad74583a7
