@@ -29,6 +29,7 @@ Why?:
 ### TEST1: Using Python
 
 Just because Python is probably the easiest way to code nowadays. All datascience libraries needed can be found in Python. (Scikit-learn, Spicy, Word2vec...)
+Basically the only thing I tested here is the **Google API for speech recognition** (gtt and speech_recognition). Then I just look for the movie that the user asks and return the IMDB rating.
 
 **Requirements**
 
@@ -49,6 +50,10 @@ sudo apt install python3-pyaudio # to play saved mp3 file
 
 
 ### Usage
+
+```bash
+git clone https://github.com/iggyrrieta/miis_nli_project
+```
 
 Go to `scripts folder` and run from terminal:
 
