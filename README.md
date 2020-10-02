@@ -16,7 +16,7 @@ sudo apt install python3-pyaudio # to play saved mp3 file
 
 
 
-> Tested and working on Ubuntu 18.0.4. On MAC and Windows should be very similar
+> Tested and working on Ubuntu 18.0.4
 
 
 
