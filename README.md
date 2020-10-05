@@ -23,7 +23,7 @@ sudo apt install python3-pyaudio # to play saved mp3 file
 ### Usage
 
 ```bash
-git clone https://github.com/iggyrrieta/miis_nli_project
+git clone https://github.com/iggyrrieta/gtt_speech_recognition
 ```
 
 Go to `scripts folder` and run from terminal:
